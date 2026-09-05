@@ -16,8 +16,9 @@ Check out my portfolio: [Portfolio](https://personalportfoliandworks.netlify.app
 ![](https://github-readme-stats.shion.dev/api?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ My Quotes
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=It%E2%80%99s+not+lagging%2C+it%E2%80%99s+giving+you+time+to+think.+;-Petar)](https://git.io/typing-svg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=P374R&icon=0&color=blue)](https://visitcount.itsvg.in)
