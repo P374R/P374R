@@ -33,19 +33,19 @@
 
 ### 💻 Tech Stack
 
-**Languages & Game Dev**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,py,bash,&theme=dark" align="center"" />
-</p>
+<div align="center">
 
-**DevOps, Hosting & Hardware**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,raspberrypi,kali,firebase,netlify,github,gitlab&theme=dark" />
-</p>
+  **Languages & Game Dev**
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,py,bash,godot&theme=dark" />
+  </p>
 
-<br/>
+  **DevOps, Hosting & Hardware**
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=docker,raspberrypi,kali,firebase,netlify,github,gitlab,arduino&theme=dark" />
+  </p>
 
----
+</div>
 
 ### 📊 GitHub Stats
 
