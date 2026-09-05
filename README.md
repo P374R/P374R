@@ -1,90 +1,29 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a102f,100:7928ca&height=200&section=header&text=Hey%20there,%20I'm%20Petar!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+#Hey there I am Petar
 
-  <h2>⚡ Self-Taught Web, Python & Batch Developer ⚡</h2>
-  <p><b>Building AI Architectures • Custom Game Engines • Low-Level Automation</b></p>
+# 💫 About Me:
+I am a self taught Web, Python and Batch developer
 
-  <!-- TYPING QUOTE -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=It%27s+not+lagging%2C+it%27s+giving+you+time+to+think.;Building+AI+models+%26+Godot+games.;Self-taught+and+always+building." alt="Typing SVG" />
-  </a>
+Check out my portfolio: [Portfolio](https://personalportfoliandworks.netlify.app/)
 
-  <br/><br/>
+# 🚀 Featured Projects
 
-  <a href="https://personalportfoliandworks.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/P374R?tab=repositories">
-    <img src="https://img.shields.io/badge/📁_ALL_REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=A855F7" alt="Repositories" />
-  </a>
-</div>
+[DeadDrift](https://github.com/P374R/DeadDrift) - A game developed using the Godot Engine featuring custom vehicle physics and mechanics.
 
-<br/>
+[Artificial Neuron Network](https://github.com/P374R/Artificial-Neuron-Network) - An Artificial Neural Network project implemented in Python for machine learning experiments.
 
----
 
-### 🚀 Featured Projects & Systems
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-| Project | Description | Core Architecture | Status |
-| :--- | :--- | :---: | :---: |
-| 🚘 **[DeadDrift](https://github.com/P374R/DeadDrift)** | Godot arcade driving engine focused on physics handling and drift mechanics. | `Godot` `GDScript` | `Active` |
-| 🧠 **[Artificial Neuron Network](https://github.com/P374R/Artificial-Neuron-Network)** | Neural network implemented from scratch in Python for deep learning logic tests. | `Python` `NumPy` | `Maintained` |
 
-<br/>
+### ✍️ My Quotes
 
-<p align="center">
-  <a href="https://github.com/P374R/DeadDrift">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=P374R&repo=DeadDrift&theme=midnight-purple&show_owner=false&description_lines_count=2" width="48%" />
-  </a>
-  <a href="https://github.com/P374R/Artificial-Neuron-Network">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=P374R&repo=Artificial-Neuron-Network&theme=midnight-purple&show_owner=false&description_lines_count=2" width="48%" />
-  </a>
-</p>
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=650&lines=It%27s+not+lagging%2C+it%27s+giving+you+time+to+think.)](https://git.io/typing-svg)
 
 ---
+[![](https://komarev.com/ghpvc/?username=P374R&icon=0&color=blue)](https://visitcount.itsvg.in)
 
-### 💻 Tech Stack & Environment
-
-<div align="center">
-
-| Category | Skill Set |
-| :--- | :--- |
-| **Development Languages** | ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Bash/Batch-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white) |
-| **DevOps & Infrastructure** | ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
-| **Hardware & Security** | ![](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) ![](https://img.shields.io/badge/Kali_Linux-557CDA?style=flat-square&logo=kali-linux&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-
-  <br/>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,py,bash,godot,docker,raspberrypi,kali,firebase,netlify,github,gitlab,arduino&theme=dark" />
-  </p>
-
-</div>
-
-<br/>
-
----
-
-### 📊 System Activity & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P374R&theme=midnight-purple&hide_border=false" width="97%" />
-</p>
-
-<br/>
-
----
-
-<!-- FOOTER VIEWS COUNTER -->
-<div align="center">
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-ACTIVE-a855f7?style=for-the-badge&labelColor=000000" height="38" alt="Profile Views" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
