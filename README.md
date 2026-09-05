@@ -5,7 +5,7 @@ Check out my portfolio: [Portfolio](https://personalportfoliandworks.netlify.app
 
 # 🚀 Featured Projects
 
-**DeadDrift** - A game developed using the Godot Engine featuring custom vehicle physics and mechanics. ---> [DeadDrift](DeadDrift)
+**DeadDrift** - A game developed using the Godot Engine featuring custom vehicle physics and mechanics.
 
 **ANN** - An Artificial Neural Network project implemented in Python for machine learning experiments.
 
