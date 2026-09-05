@@ -51,7 +51,7 @@
   **Languages & Game Engineering**
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,py,bash,godot&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,py,bash,godot,blender&theme=dark" />
     </a>
   </p>
 
