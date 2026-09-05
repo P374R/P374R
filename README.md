@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a102f,100:7928ca&height=200&section=header&text=Hey%20there,%20I'm%20Petar!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <h3> Self-Taught Web, Python & Batch Developer</h3>
+  <h3>Self-Taught Web, Python & Batch Developer</h3>
 
   <!-- TYPING QUOTE -->
   <a href="https://git.io/typing-svg">
@@ -22,10 +22,14 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🚘 **[DeadDrift](https://github.com/P374R/DeadDrift)** | Godot engine game featuring custom vehicle physics and mechanics. | `Godot` `GDScript` |
-| 🧠 **[Artificial Neuron Network](https://github.com/P374R/Artificial-Neuron-Network)** | Artificial Neural Network implemented in Python for ML experiments. | `Python` `NumPy` |
+<p align="center">
+  <a href="https://github.com/P374R/DeadDrift">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=P374R&repo=DeadDrift&theme=midnight-purple&show_owner=false" width="48%" />
+  </a>
+  <a href="https://github.com/P374R/Artificial-Neuron-Network">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=P374R&repo=Artificial-Neuron-Network&theme=midnight-purple&show_owner=false" width="48%" />
+  </a>
+</p>
 
 <br/>
 
@@ -47,6 +51,10 @@
 
 </div>
 
+<br/>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -59,6 +67,6 @@
 <!-- FOOTER VIEWS COUNTER -->
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=P374R&icon=0&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=P374R&color=7928ca&style=flat-square" alt="Profile Views" />
   </a>
 </div>
