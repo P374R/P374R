@@ -35,7 +35,7 @@
 
 **Languages & Game Dev**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,py,bash,&theme=dark" style="align:center;" />
+  <img src="https://skillicons.dev/icons?i=html,css,py,bash,&theme=dark" align="center"" />
 </p>
 
 **DevOps, Hosting & Hardware**
