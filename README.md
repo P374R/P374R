@@ -67,6 +67,6 @@
 <!-- FOOTER VIEWS COUNTER -->
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=P374R&labelColor=000000&color=a855f7&style=for-the-badge" height="38" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=a855f7&label=PROFILE%20VIEWS&labelColor=000000&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FP374R%2Fviews&style=for-the-badge" height="38" alt="Profile Views" />
   </a>
 </div>
