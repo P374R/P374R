@@ -67,6 +67,6 @@
 <!-- FOOTER VIEWS COUNTER -->
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://img.shields.io/badge/dynamic/json?color=a855f7&label=PROFILE%20VIEWS&labelColor=000000&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FP374R%2Fviews&style=for-the-badge" height="38" alt="Profile Views" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FP374R&count_bg=%23A855F7&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true" height="35" alt="Profile Views" />
   </a>
 </div>
