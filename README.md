@@ -24,10 +24,10 @@
 
 <p align="center">
   <a href="https://github.com/P374R/DeadDrift">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=P374R&repo=DeadDrift&theme=midnight-purple&show_owner=false" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=P374R&repo=DeadDrift&theme=midnight-purple&show_owner=false&description_lines_count=2" width="48%" />
   </a>
   <a href="https://github.com/P374R/Artificial-Neuron-Network">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=P374R&repo=Artificial-Neuron-Network&theme=midnight-purple&show_owner=false" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=P374R&repo=Artificial-Neuron-Network&theme=midnight-purple&show_owner=false&description_lines_count=2" width="48%" />
   </a>
 </p>
 
@@ -67,6 +67,6 @@
 <!-- FOOTER VIEWS COUNTER -->
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=P374R&color=7928ca&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=P374R&color=7928ca&style=for-the-badge" height="35" alt="Profile Views" />
   </a>
 </div>
