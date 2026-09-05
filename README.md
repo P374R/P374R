@@ -12,7 +12,7 @@
   <br/><br/>
 
   <a href="https://personalportfoliandworks.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logoColor=00C7B7" alt="Portfolio" />
   </a>
 </div>
 
