@@ -1,1 +1,2 @@
-![GitHubCard profile card for P374R](https://githubcard.com/g/e2WgEPni-L6mqri-.svg)
+![Petar's GitHub Card](https://githubcard.com/P374R.svg?d=Ag76GRzI9rSa)
+
