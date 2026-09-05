@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <p align="center">
   <a href="https://github.com/P374R/DeadDrift">
@@ -35,7 +35,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
