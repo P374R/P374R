@@ -35,12 +35,12 @@
 
 **Languages & Game Dev**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,py,bash,godot&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,py,bash,&theme=dark" />
 </p>
 
 **DevOps, Hosting & Hardware**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,raspberrypi,arduino,firebase,netlify,github,gitlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,raspberrypi,kali,firebase,netlify,github,gitlab&theme=dark" />
 </p>
 
 <br/>
