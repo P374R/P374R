@@ -1,30 +1,89 @@
-Hi there, I'm Petar! 👋
+<!-- 
+========================================================================================
+⚡️ P374R // EXECUTIVE ENTERPRISE GITHUB PROFILE
+========================================================================================
+-->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Building+the+future...;Petar+%2F+P374R" alt="Typing SVG" />
-</div>
----
-⚡ A Little Wisdom
-> **"It's not lagging, it's giving you time to think."**
----
-🛸 About Me
-I'm a developer passionate about crafting clean, high-performance code and building premium digital experiences.
-🌍 Based in Croatia
-💻 Check out my repositories at github.com/P374R
-🚀 Always optimizing, never lagging.
-🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,github,vscode,html,css" alt="My Skills" />
-  </a>
-</p>
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P374R&show_icons=true&theme=transparent&hide_border=true&title_color=A970FF&icon_color=8250DF&text_color=FFFFFF" alt="Petar's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P374R&theme=transparent&hide_border=true&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="48%" />
-</div>
-<br />
-<div align="center">
-  <a href="https://github.com/P374R">
-    <img src="https://img.shields.io/github/followers/P374R?label=Follow%20%40P374R&style=for-the-badge&color=8250DF&labelColor=1F2328" alt="Follow Petar on GitHub" />
-  </a>
+  
+  <!-- BRAND IDENTIFIER -->
+  <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; letter-spacing: 4px; color: #8b949e; text-transform: uppercase; margin-bottom: 0px;">
+    Engineering Architecture
+  </p>
+  
+  <h1 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 54px; font-weight: 800; letter-spacing: -1.5px; color: #f0f6fc; margin-top: 5px; margin-bottom: 20px; line-height: 1;">
+    P374R
+  </h1>
+
+  <!-- THE ALPHA QUOTE -->
+  <p align="center" style="font-family: 'SF Pro Display', -apple-system, sans-serif; font-size: 20px; font-style: italic; font-weight: 400; color: #c9d1d9; max-width: 600px; line-height: 1.6; margin-bottom: 40px; padding: 20px 0; border-top: 1px solid #21262d; border-bottom: 1px solid #21262d;">
+    "It's not lagging, it's giving you time to think."
+  </p>
+
+  <!-- METRIC VELOCITY CARDS (REAL-TIME AGGREGATORS) -->
+  <p align="center">
+    <img src="https://vercel.app" alt="P374R Velocity Metrics" width="48.5%" />
+    <img src="https://vercel.app" alt="P374R Language Distribution" width="48.5%" />
+  </p>
+
+  <br />
+
+  <!-- ==================================================================================== -->
+  <!-- ARCHITECTURAL CORE STACK -->
+  <!-- ==================================================================================== -->
+  
+  <h3 style="font-family: -apple-system, sans-serif; font-size: 18px; font-weight: 600; color: #f0f6fc; letter-spacing: -0.5px; margin-top: 40px; margin-bottom: 15px;">
+    System Stack & Core Weapons
+  </h3>
+
+  <!-- LAYER I: CORE SYSTEMS & RUNTIMES -->
+  <p align="center">
+    <img src="https://shields.io" alt="Go" />
+    <img src="https://shields.io" alt="Rust" />
+    <img src="https://shields.io" alt="TypeScript" />
+    <img src="https://shields.io" alt="C++" />
+    <img src="https://shields.io" alt="Python" />
+  </p>
+
+  <!-- LAYER II: INFRASTRUCTURE & ORCHESTRATION -->
+  <p align="center">
+    <img src="https://shields.io" alt="Docker" />
+    <img src="https://shields.io" alt="Kubernetes" />
+    <img src="https://shields.io" alt="AWS" />
+    <img src="https://shields.io" alt="Linux" />
+    <img src="https://shields.io" alt="Git" />
+  </p>
+
+  <br />
+
+  <!-- ==================================================================================== -->
+  <!-- HIGH-IMPACT REPOSITORY INDEX -->
+  <!-- ==================================================================================== -->
+  
+  <div align="left" style="max-width: 800px; margin-top: 40px; text-align: left;">
+    <h3 style="font-family: -apple-system, sans-serif; font-size: 18px; font-weight: 600; color: #f0f6fc; letter-spacing: -0.5px; border-bottom: 1px solid #21262d; padding-bottom: 8px; margin-bottom: 20px;">
+      💼 Core Ventures & Shipped Products
+    </h3>
+    
+    <p style="font-family: -apple-system, sans-serif; font-size: 14px; color: #c9d1d9; line-height: 1.6;">
+      • 🚀 <b><a href="https://github.com" style="color: #58a6ff; text-decoration: none;">Production System</a></b> — High-throughput architecture built for low-latency scale execution.<br />
+      • ⚡ <b><a href="https://github.com" style="color: #58a6ff; text-decoration: none;">Distributed Engine</a></b> — Core infrastructure layer maximizing multi-core optimization pipelines.<br />
+      • 🛠️ <b><a href="https://github.com" style="color: #58a6ff; text-decoration: none;">Developer Framework</a></b> — Custom tooling and runtime wrappers built to strip away developer friction.
+    </p>
+  </div>
+
+  <br />
+
+  <!-- ==================================================================================== -->
+  <!-- FOOTER / ACTIVITY SPECTRUM -->
+  <!-- ==================================================================================== -->
+
+  <p align="center" style="margin-top: 50px;">
+    <img src="https://herokuapp.com" alt="P374R Engineering Velocity Streak" width="100%" />
+  </p>
+  
+  <p align="center" style="font-family: -apple-system, sans-serif; font-size: 12px; color: #8b949e; margin-top: 30px;">
+    🔒 Verified Secure Matrix • System Online 🟢
+  </p>
+
 </div>
