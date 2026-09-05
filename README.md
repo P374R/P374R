@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,70:581c87,100:a855f7&height=220&section=header&text=P374R&fontSize=75&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,70:581c87,100:a855f7&height=220&section=header&text=Hey%20there%20I%20am%20Petar&fontSize=75&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <h2> Self-Taught Web, Python & Batch Developer </h2>
   <p><b>Crafting AI Models • Godot Game Engines • Low-Level Scripts • Linux Systems</b></p>
