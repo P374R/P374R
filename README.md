@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self taught Web, Python and Batch developer
+I am a self taught Web, Python and Batch developer
 
 Check out my portfolio: [Portfolio](https://personalportfoliandworks.netlify.app/)
 
