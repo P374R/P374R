@@ -18,7 +18,7 @@ Check out my portfolio: [Portfolio](https://personalportfoliandworks.netlify.app
 
 ### ✍️ My Quotes
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=It%E2%80%99s+not+lagging%2C+it%E2%80%99s+giving+you+time+to+think.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=500&lines=It%27s+not+lagging%2C+it%27s+giving+you+time+to+think.)](https://git.io/typing-svg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=P374R&icon=0&color=blue)](https://visitcount.itsvg.in)
