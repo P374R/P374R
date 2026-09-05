@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:3b82f6&height=200&section=header&text=Hey%20there,%20I'm%20Petar!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a102f,100:7928ca&height=200&section=header&text=Hey%20there,%20I'm%20Petar!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <h3>🚀 Self-Taught Web, Python & Batch Developer</h3>
 
   <!-- TYPING QUOTE -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=It%27s+not+lagging%2C+it%27s+giving+you+time+to+think.;Building+AI+models+%26+Godot+games.;Self-taught+and+always+building." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=It%27s+not+lagging%2C+it%27s+giving+you+time+to+think.;Building+AI+models+%26+Godot+games.;Self-taught+and+always+building." alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -47,16 +47,18 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P374R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P374R&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
 <br/>
 
 <!-- FOOTER VIEWS COUNTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=P374R&color=3b82f6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=P374R&icon=0&color=blue" alt="Profile Views" />
+  </a>
 </div>
