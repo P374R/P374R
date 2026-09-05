@@ -7,7 +7,7 @@ Check out my portfolio: [Portfolio](https://personalportfoliandworks.netlify.app
 
 [DeadDrift](https://github.com/P374R/DeadDrift) - A game developed using the Godot Engine featuring custom vehicle physics and mechanics.
 
-[Artificial Neuron Network](https://github.com/P374R/ANN) - An Artificial Neural Network project implemented in Python for machine learning experiments.
+[Artificial Neuron Network](https://github.com/P374R/Artificial-Neuron-Network) - An Artificial Neural Network project implemented in Python for machine learning experiments.
 
 
 # 💻 Tech Stack:
