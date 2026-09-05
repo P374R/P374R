@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a102f,100:7928ca&height=200&section=header&text=Hey%20there,%20I'm%20Petar!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <h3>🚀 Self-Taught Web, Python & Batch Developer</h3>
+  <h3> Self-Taught Web, Python & Batch Developer</h3>
 
   <!-- TYPING QUOTE -->
   <a href="https://git.io/typing-svg">
