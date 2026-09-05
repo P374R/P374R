@@ -1,97 +1,29 @@
-# ─── ❖ P E T A R ❖ ───
-### 🪐 SYSTEM ARCHITECT & SYSTEMS ENGINEER
-<h6>Autonomous Developer specializing in Simulation Engines, Automation, and Artificial Intelligence Systems.</h6>
+#Hey there I am Petar
 
-<p align="left">
-  <a href="https://netlify.app" target="_blank">
-    <img src="https://shields.io" alt="Live Portfolio"/>
-  </a>
-  <img src="https://shields.io" alt="Status"/>
-</p>
+# 💫 About Me:
+I am a self taught Web, Python and Batch developer
 
----
+Check out my portfolio: [Portfolio](https://personalportfoliandworks.netlify.app/)
 
-### 📡 OPERATIONAL SPECTRUM
+# 🚀 Featured Projects
 
-<html>
-<table>
-  <tr>
-    <td width="33%">
-      <b>01 / KERNEL & SCRIPTS</b><br>
-      <sub>Low-level automation, shell orchestration, tool building.</sub>
-    </td>
-    <td width="33%">
-      <b>02 / COGNITIVE SYSTEMS</b><br>
-      <sub>Neural network optimization, predictive modeling, data matrix math.</sub>
-    </td>
-    <td width="33%">
-      <b>03 / ENGINE DYNAMICS</b><br>
-      <sub>Real-time physics calculation, memory profiling, mechanics design.</sub>
-    </td>
-  </tr>
-</table>
-</html>
+[DeadDrift](https://github.com/P374R/DeadDrift) - A game developed using the Godot Engine featuring custom vehicle physics and mechanics.
+
+[Artificial Neuron Network](https://github.com/P374R/Artificial-Neuron-Network) - An Artificial Neural Network project implemented in Python for machine learning experiments.
+
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### ✍️ My Quotes
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=650&lines=It%27s+not+lagging%2C+it%27s+giving+you+time+to+think.)](https://git.io/typing-svg)
 
 ---
+[![](https://komarev.com/ghpvc/?username=P374R&icon=0&color=blue)](https://visitcount.itsvg.in)
 
-### 🛠️ PLATFORM ECOSYSTEM & ARCHITECTURE
-
-```git
-[CORE ENGINE] ───────► Python 3.x ───┬──► NumPy (Vector Mathematics)
-                                     └──► Neural Architectures
-[AUTOMATION]  ───────► Bash / Shell ───► Advanced Scripting & Tools
-[SIMULATION]  ───────► Godot Engine ───► Decoupled Vector Physics
-[INFRASTRUCTURE] ────► Docker ─────────┬──► Apache / Security Routing
-                                       └──► Netlify Edge / Render Compute
-```
-
-#### ⚡ Engineering Proficiency
-* **Python Engineering**
-  <img src="https://geps.dev" width="300" height="20" alt="Progress Bar"/> `85%`
-* **Shell Scripting & Automation**
-  <img src="https://geps.dev" width="300" height="20" alt="Progress Bar"/> `80%`
-* **Real-time Engine Simulation**
-  <img src="https://geps.dev" width="300" height="20" alt="Progress Bar"/> `75%`
-
----
-
-### 🚀 DEPLOYED REPOSITORIES
-
-<html>
-<table border="0" cellpadding="10">
-  <tr>
-    <td width="50%" valign="top" style="border-right: 1px solid #333;">
-      <h3>🏎️ DeadDrift Engine</h3>
-      <p><i>A proprietary real-time physics environment.</i></p>
-      <p>Engineered from scratch using Godot to process high-fidelity vector calculations, complex friction maps, and entirely dynamic vehicle mechanics without using built-in engine arcade templates.</p>
-      <br>
-      <a href="https://github.com"><b>ACCESS ARCHIVE ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Artificial Neural Network</h3>
-      <p><i>Clean-room computational intelligence matrix.</i></p>
-      <p>A pure mathematical implementation of feedforward and backpropagation architectures compiled natively in Python. Eliminates standard framework dependencies to optimize calculation overhead.</p>
-      <br>
-      <a href="https://github.com"><b>ACCESS ARCHIVE ↗</b></a>
-    </td>
-  </tr>
-</table>
-</html>
-
----
-
-### 📊 ANALYTICS TELEMETRY
-
-<p align="left">
-  <img src="https://shion.dev" height="150" alt="GitHub Analytics" />
-  <img src="https://shion.dev" height="150" alt="Language Analytics" />
-</p>
-
----
-
-```text
-[SYSTEM TERMINAL CLOSED] // "It's not lagging, it's giving you time to think."
-```
-<p align="right">
-  <img src="https://komarev.com" alt="Network Metrics Tracker" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
