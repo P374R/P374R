@@ -1,18 +1,18 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a102f,100:7928ca&height=200&section=header&text=Hey%20there,%20I'm%20Petar!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a102f,80:581c87,100:a855f7&height=220&section=header&text=Hey%20there,%20I'm%20Petar!&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <h3>Self-Taught Web, Python & Batch Developer</h3>
+  <h2>⚡ Self-Taught Web, Python & Batch Developer</h2>
 
   <!-- TYPING QUOTE -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=It%27s+not+lagging%2C+it%27s+giving+you+time+to+think.;Building+AI+models+%26+Godot+games.;Self-taught+and+always+building." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=It%27s+not+lagging%2C+it%27s+giving+you+time+to+think.;Building+AI+models+%26+Godot+games.;Self-taught+and+always+building." alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <a href="https://personalportfoliandworks.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logoColor=00C7B7" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/P374R/DeadDrift">
@@ -35,7 +35,7 @@
 
 ---
 
-### Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 
@@ -55,18 +55,24 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=P374R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P374R&theme=midnight-purple&hide_border=false" width="97%" />
+</p>
+
 <br/>
+
+---
 
 <!-- FOOTER VIEWS COUNTER -->
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=P374R&labelColor=000000&color=a855f7&style=for-the-badge" height="38" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/PROFILE_VIEWS-75-a855f7?style=for-the-badge&labelColor=000000" height="38" alt="Profile Views" />
   </a>
 </div>
