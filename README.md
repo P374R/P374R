@@ -80,6 +80,7 @@
       </div>
     </details>
     <summary><h2>🏆 Achievements</h2></summary>
+    <h3>🏆 Achievements</h3>
     <div align="center">
       <img src="https://github-trophies.vercel.app/?username=P374R&theme=dark" />
     </div>
