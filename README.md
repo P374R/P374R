@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hey there i am Petar</h1>
-
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
 <br/>
 
 <!-- YOUR TYPING BANNER -->
@@ -15,7 +15,7 @@
 
 > **I am a self-taught developer specializing in modern, reactive websites and complex automation scripts utilizing Python and Batch scripting.**
 
----
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
 <div align=center>
 <h1>Core Toolkit</h1>  
 
@@ -26,7 +26,7 @@
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P374R&theme=transparent"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
 
 ###  Automation & Development Capabilities
 
@@ -39,7 +39,7 @@ echo Running optimization scripts...
 echo System status: FULLY OPERATIONAL.
 ```
 
----
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
 
 ### GitHub Activity
 <div align="center">
