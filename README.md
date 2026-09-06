@@ -48,6 +48,7 @@ echo System status: FULLY OPERATIONAL.
 <!-- FIXED STATS CARD: Change 'YOUR_GITHUB_USERNAME_HERE' to your real username below! -->
 ![Terminal Dashboard](https://github-terminal-stats-card.vercel.app/api/card?username=P374R)
 <br>
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=P374R&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
