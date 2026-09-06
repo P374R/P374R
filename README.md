@@ -44,7 +44,7 @@ echo System status: FULLY OPERATIONAL.
 <div align="center">
 
 <!-- FIXED STATS CARD: Change 'YOUR_GITHUB_USERNAME_HERE' to your real username below! -->
-![](https://github-readme-stats.shion.dev/api?username=p374r&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Terminal Dashboard](https://github-terminal-stats-card.vercel.app/api/card?username=Mayur-Pagote)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=p374r&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
