@@ -26,7 +26,7 @@
   </ul>
 
   <br>
-
+---
   <h3>🧠 Artificial-Neuron-Network</h3>
   <p>A custom-built, lightweight artificial neural network architecture constructed from scratch to model deep learning nodes, mathematical weights, and activation functions.</p>
 
