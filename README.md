@@ -17,8 +17,8 @@
 > **I am a self-taught developer specializing in modern, reactive websites and complex automation scripts utilizing Python and Batch scripting.**
 
 ---
-<div align=center>
 ###  Core Toolkit
+<div align=center>
 
 <!-- FIXED BADGES: Spread into clean, independent markdown links so GitHub proxies them perfectly -->
 
