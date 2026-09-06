@@ -51,9 +51,8 @@ echo System status: FULLY OPERATIONAL.
 </div>
 
 <br/>
-
+![Profile Views](https://komarev.com/ghpvc/?username=P374R&color=blueviolet&style=flat-square&label=Profile+Views)
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mayur-Pagote&color=blueviolet&style=flat-square&label=Profile+Views)
   <!-- FIXED FOOTER -->
   <img src="https://vercel.app" width="100%" alt="Footer Wave" />
 </div>
