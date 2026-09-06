@@ -1,22 +1,23 @@
-# Hi 👋, I'm P374R
+# Hi , I'm P374R
 
-🔭 I'm currently working on **I am currently working on a game called DeadDrift**
+**I am a self-taught developer specializing in modern, reactive websites and complex automation scripts utilizing Python and Batch scripting.**
 
-⚡ Fun fact **I am a self-taught developer specializing in modern, reactive websites and complex automation scripts utilizing Python and Batch scripting.**
+ **I am currently working on a game called DeadDrift**
+ 
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+## Tech Stack:
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=default) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=default) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=default) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=default) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=default) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=default) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=default) ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=default) ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=default) ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=default) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=default) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=default)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![P374R'sGitHubstats](https://github-stats-alpha.vercel.app/api?username=P374R&cc=0d1117&tc=c9d1d9&ic=58a6ff&bc=30363d)![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=P374R&theme=dark&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=P374R&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 👁️ Profile Views
+## Profile Views
 ![](https://komarev.com/ghpvc/?username=P374R&style=for-the-badge&color=blue)
 
 <!-- Proudly created with GitHub Profile README Generator 🚀 -->
