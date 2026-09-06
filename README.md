@@ -13,8 +13,8 @@
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
     </div>
     <details> 
-      <summary><h2>🛠️ My Favorite Tools</h2></summary>
-      <h3>👨‍💻 Programming and Markup Languages</h3>
+      <summary><h2> My Favorite Tools</h2></summary>
+      <h3> Programming and Markup Languages</h3>
       <p>
           <img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white">
           <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
@@ -69,7 +69,7 @@
           <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
           <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white">
       </p>
-      <h3>🗄️ Databases and Cloud Hosting</h3>
+      <h3> Databases and Cloud Hosting</h3>
       <p>
           <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
           <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
@@ -83,7 +83,7 @@
           <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
           <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
       </p>
-      <h3>💻 Software and Tools</h3>
+      <h3> Software and Tools</h3>
       <p>
           <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
           <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
@@ -110,8 +110,8 @@
       </p>
     </details>
     <details> 
-      <summary><h2>📊 Stats and Activity</h2></summary>
-      <h3>🔥 Streak Stats</h3>
+      <summary><h2> Stats and Activity</h2></summary>
+      <h3> Streak Stats</h3>
       <p>
         <img alt="Mayur-Pagote's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Mayur-Pagote&theme=react&hide_border=true&short_numbers=true"/>
       </p>
@@ -121,7 +121,7 @@
       <br/>
       <img alt="Mayur-Pagote's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Pagote&theme=react-dark&hide_border=false" />
     </details>
-    <h2>🏆 Achievements</h2>
+    <h2> Achievements</h2>
     <div align="center">
       <img src="https://github-trophies.vercel.app/?username=Mayur-Pagote" />
     </div>
