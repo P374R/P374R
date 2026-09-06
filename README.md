@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- CAPSULE RENDER WAVE HEADER -->
-<img src="https://vercel.app" width="100%"/>
+<!-- FIXED HEADER: Uses stable HTML rendering -->
+<img src="https://vercel.app" width="100%" alt="Header Wave" />
 
 <br/>
 
 <!-- YOUR TYPING BANNER -->
-![Typing Animation](https://waveify.onrender.com/api/typing/terminal?text=It%27s+not+lagging%2C+it%27s+givin%27+you+time+to+think.&speed=50&color=%238800ff&backgroundColor=%23000000&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=terminal&prompt=)
+![Typing Animation](https://onrender.com)
 
 </div>
 
@@ -20,18 +20,15 @@
 
 ### 🛠️ Core Toolkit
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://shields.io" alt="Python"/>
-  <!-- Batch / Windows Terminal -->
-  <img src="https://shields.io" alt="Batch Scripting"/>
-  <!-- Modern/Reactive Web (JavaScript) -->
-  <img src="https://shields.io" alt="JavaScript"/>
-  <!-- HTML5 -->
-  <img src="https://shields.io" alt="HTML5"/>
-  <!-- CSS3 -->
-  <img src="https://shields.io" alt="CSS3"/>
-</p>
+<!-- FIXED BADGES: Spread into clean, independent markdown links so GitHub proxies them perfectly -->
+
+![Python](https://shields.io)
+![Batch](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+---
 
 ### ⚙️ Automation & Development Capabilities
 
@@ -47,13 +44,16 @@ echo System status: FULLY OPERATIONAL.
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <!-- Dynamic GitHub Streak Stats with customized fast cache (30 mins) so it doesn't freeze for 24h! -->
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+<!-- FIXED STATS CARD: Change 'YOUR_GITHUB_USERNAME_HERE' to your real username below! -->
+<img src="https://vercel.app" alt="GitHub Stats" />
+
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://vercel.app" width="100%"/>
+  <!-- FIXED FOOTER -->
+  <img src="https://vercel.app" width="100%" alt="Footer Wave" />
 </div>
