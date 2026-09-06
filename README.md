@@ -9,26 +9,37 @@
     <div align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
     </div>
-    <details>
-          <summary><h2>📂 Featured Projects</h2></summary>
-                <h3>🚗 DeadDrift</h3>
-          <p>A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles.
+<details>
+  <summary><h2>📂 Featured Projects</h2></summary>
+  
+  <h3>🚗 DeadDrift</h3>
+  <p>A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles.</p>
 
----
+  <h4>🕹️ About the Game</h4>
+  <p><b><a href="https://github.com">DeadDrift</a></b> is an adrenaline-fueled racing game where survival requires perfect traction control and master-class drifting. Slide through tight corners, outrun chaotic elements, and maintain momentum to avoid burning out. Every turn is a gamble between a record-breaking speed boost or a total crash.</p>
 
-### 🕹️ About the Game
-**[DeadDrift](DeadDrift)** is an adrenaline-fueled racing game where survival requires perfect traction control and master-class drifting. Slide through tight corners, outrun chaotic elements, and maintain momentum to avoid burning out. Every turn is a gamble between a record-breaking speed boost or a total crash.
+  <h4>🚀 Core Features</h4>
+  <ul>
+    <li><b>Advanced Drift Physics:</b> Immersive steering mechanics designed for tight cornering and satisfying momentum management.</li>
+    <li><b>Deadly Environments:</b> Dynamic tracks filled with hazardous turns, obstacles, and high-stakes racing lanes.</li>
+    <li><b>Optimized Performance:</b> Smooth rendering and highly responsive inputs to catch every split-second slide.</li>
+  </ul>
 
-### 🚀 Core Features
-* **Advanced Drift Physics:** Immersive steering mechanics designed for tight cornering and satisfying momentum management.
-* **Deadly Environments:** Dynamic tracks filled with hazardous turns, obstacles, and high-stakes racing lanes.
-* **Optimized Performance:** Smooth rendering and highly responsive inputs to catch every split-second slide.
-          </p>
-          <br>
-          <h3 align=left>🧠 Artificial-Neuron-Network</h3>
-          <p>
-          </p>
-    </details>
+  <br>
+
+  <h3>🧠 Artificial-Neuron-Network</h3>
+  <p>A custom-built, lightweight artificial neural network architecture constructed from scratch to model deep learning nodes, mathematical weights, and activation functions.</p>
+
+  <h4>🎛️ Architecture & System Design</h4>
+  <p>This implementation features an independent <b>Artificial Neural Network (ANN)</b>. By stripping away heavy, abstract frameworks, this project isolates the fundamental mechanics of machine learning to demonstrate exactly how data propagates, adjusts, and learns across hidden layers.</p>
+
+  <h4>🧪 Core Framework Capabilities</h4>
+  <ul>
+    <li><b>Custom Backpropagation:</b> Algorithmic calculation of partial derivatives to compute error gradients and dynamically fine-tune network weights.</li>
+    <li><b>Matrix Operations:</b> Highly optimized mathematical structures handling dot products and forward feed processing with minimal overhead.</li>
+    <li><b>Activation Nodes:</b> Integrated mathematical activation routines designed to process complex non-linear classification boundaries.</li>
+  </ul>
+</details>
     <details> 
       <summary><h2>🛠️ My Favorite Tools</h2></summary>
       <h3>👨‍💻 Programming and Markup Languages</h3>
