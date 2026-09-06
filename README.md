@@ -25,7 +25,7 @@
 * **Optimized Performance:** Smooth rendering and highly responsive inputs to catch every split-second slide.
           </p>
           <br>
-          <h3>🧠 Artificial-Neuron-Network</h3>
+          <h3 align=left>🧠 Artificial-Neuron-Network</h3>
           <p>
           </p>
     </details>
