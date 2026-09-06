@@ -18,7 +18,7 @@
 
 ---
 <div align=center>
-###  Core Toolkit
+<h1>Core Toolkit</h1>  
 
 
 <!-- FIXED BADGES: Spread into clean, independent markdown links so GitHub proxies them perfectly -->
