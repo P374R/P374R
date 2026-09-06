@@ -75,7 +75,7 @@
       </p>
       <h3>💻 GitHub Profile Stats</h3>
       <img alt="P374R's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=P374R&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" height="192px"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P374R&theme=black"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P374R&theme=dark"/>
       <br/>
       </div>
     </details>
