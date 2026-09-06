@@ -13,12 +13,12 @@
           <summary><h2>📂 Featured Projects</h2></summary>
                 <h3>🚗 DeadDrift</h3>
           <p>
-                > **A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles.** 
+> **A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles.** 
 
 ---
 
 ### 🕹️ About the Game
-**DeadDrift** is an adrenaline-fueled racing game where survival requires perfect traction control and master-class drifting. Slide through tight corners, outrun chaotic elements, and maintain momentum to avoid burning out. Every turn is a gamble between a record-breaking speed boost or a total crash.
+**[DeadDrift](DeadDrift)** is an adrenaline-fueled racing game where survival requires perfect traction control and master-class drifting. Slide through tight corners, outrun chaotic elements, and maintain momentum to avoid burning out. Every turn is a gamble between a record-breaking speed boost or a total crash.
 
 ### 🚀 Core Features
 * **Advanced Drift Physics:** Immersive steering mechanics designed for tight cornering and satisfying momentum management.
