@@ -47,11 +47,11 @@ echo System status: FULLY OPERATIONAL.
 <!-- FIXED STATS CARD: Change 'YOUR_GITHUB_USERNAME_HERE' to your real username below! -->
 ![Terminal Dashboard](https://github-terminal-stats-card.vercel.app/api/card?username=P374R)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=p374r&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=P374R&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=P374R&color=blueviolet&style=flat-square&label=Profile+Views)
 <div align="center">
   <!-- FIXED FOOTER -->
   <img src="https://vercel.app" width="100%" alt="Footer Wave" />
