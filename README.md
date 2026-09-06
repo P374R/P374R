@@ -13,6 +13,6 @@ I am a self-taught developer specializing in modern, reactive websites and compl
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=p374r&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=p374r&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
