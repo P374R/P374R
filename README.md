@@ -32,8 +32,6 @@
 
 ###  Automation & Development Capabilities
 
-![Gitea language count](https://img.shields.io/gitea/languages/count/P374R/:repo)
-
 ```batch
 @echo off
 echo Running optimization scripts...
