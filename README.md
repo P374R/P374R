@@ -81,5 +81,5 @@
     </details>
     <h2>🏆 Achievements</h2>
     <div align="center">
-      <img src="https://github-trophies.vercel.app/?username=P374R" />
+      <img src="https://github-trophies.vercel.app/?username=P374R&theme=dark" />
     </div>
