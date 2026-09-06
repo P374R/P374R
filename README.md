@@ -1,13 +1,10 @@
 <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+P374R....;Welcome+to+my+profile!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+P374R....;Welcome+to+my+profile!&center=true&size=30">
     </p>
     <p align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Full-stack+Web+and+App+developer;Experienced+UI%2FUX+Designer;Always+Learning+new+things" />
     </p>
     <p align="center">
-      <a href="https://www.linkedin.com/in/P374R"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"></a>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://x.com/P374R"><img width="50px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"/></a>
     </p>
     <div align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
