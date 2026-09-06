@@ -9,6 +9,10 @@
     <div align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
     </div>
+    <details>
+          <summary><h2>📂 Featured Projects</h2></summary>
+                <h3>🚗 DeadDrift</h3>
+    </details>
     <details> 
       <summary><h2>🛠️ My Favorite Tools</h2></summary>
       <h3>👨‍💻 Programming and Markup Languages</h3>
