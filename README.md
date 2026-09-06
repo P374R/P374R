@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- FIXED HEADER: Uses stable HTML rendering -->
-<img src="https://vercel.app" width="100%" alt="Header Wave" />
+<h1>Hey there i am Petar</h1>
 
 <br/>
 
