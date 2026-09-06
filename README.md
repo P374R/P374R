@@ -11,7 +11,7 @@
 
 <br/>
 
-## Root@Developer:~$ cat about_me.txt
+<h2 color=lime>Root@Developer:~$ cat about_me.txt</h2> 
 
 > **I am a self-taught developer specializing in modern, reactive websites and complex automation scripts utilizing Python and Batch scripting.**
 
