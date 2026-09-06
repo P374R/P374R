@@ -12,8 +12,8 @@
 <br/>
 
 <h2 color=lime>About me</h2> 
-
-> **I am a self-taught developer specializing in modern, reactive websites and complex automation scripts utilizing Python and Batch scripting.**
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+ **I am a self-taught developer specializing in modern, reactive websites and complex automation scripts utilizing Python and Batch scripting.**
 
 <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
 <div align=center>
