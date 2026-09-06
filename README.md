@@ -1,1 +1,2 @@
+![Typing Animation](https://waveify.onrender.com/api/typing/glitch?text=It%27s+not+lagging%2C+it%27s+givin%27+you+time+to+think.&speed=50&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=glitch&prompt=)
 ![Wave Animation](https://waveify.onrender.com/api/wave?color=%238B5CF6&height=150&speed=8&width=1200&amplitude=80&frequency=5&waveType=default&glowIntensity=3)
