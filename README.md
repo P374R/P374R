@@ -49,7 +49,7 @@ echo System status: FULLY OPERATIONAL.
 ![Terminal Dashboard](https://github-terminal-stats-card.vercel.app/api/card?username=P374R)
 <br>
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=P374R&color=blueviolet&style=flat-rectangle&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=P374R&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
