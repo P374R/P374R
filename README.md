@@ -5,9 +5,9 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Full-stack+Web+and+App+developer;Experienced+UI%2FUX+Designer;Always+Learning+new+things" />
     </p>
     <p align="center">
-      <a href="https://www.linkedin.com/in/Mayur-Pagote"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"></a>
+      <a href="https://www.linkedin.com/in/P374R-Pagote"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://x.com/Mayur-Pagote"><img width="50px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"/></a>
+      <a href="https://x.com/P374R-Pagote"><img width="50px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"/></a>
     </p>
     <div align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
@@ -113,15 +113,15 @@
       <summary><h2> Stats and Activity</h2></summary>
       <h3> Streak Stats</h3>
       <p>
-        <img alt="Mayur-Pagote's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Mayur-Pagote&theme=react&hide_border=true&short_numbers=true"/>
+        <img alt="Petar's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=P374R&theme=react&hide_border=true&short_numbers=true"/>
       </p>
       <h3>💻 GitHub Profile Stats</h3>
-      <img alt="Mayur-Pagote's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mayur-Pagote&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" height="192px"/>
-      <img alt="Mayur-Pagote's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+      <img alt="Petar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=P374R&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" height="192px"/>
+      <img alt="Petar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=P374R&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
       <br/>
-      <img alt="Mayur-Pagote's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Pagote&theme=react-dark&hide_border=false" />
+      <img alt="Petar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=P374R&theme=react-dark&hide_border=false" />
     </details>
     <h2> Achievements</h2>
     <div align="center">
-      <img src="https://github-trophies.vercel.app/?username=Mayur-Pagote" />
+      <img src="https://github-trophies.vercel.app/?username=P374R" />
     </div>
