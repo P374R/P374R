@@ -23,7 +23,6 @@
 * **Advanced Drift Physics:** Immersive steering mechanics designed for tight cornering and satisfying momentum management.
 * **Deadly Environments:** Dynamic tracks filled with hazardous turns, obstacles, and high-stakes racing lanes.
 * **Optimized Performance:** Smooth rendering and highly responsive inputs to catch every split-second slide.
-
           </p>
     </details>
     <details> 
