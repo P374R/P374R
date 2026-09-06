@@ -12,7 +12,7 @@
     <details>
           <summary><h2>📂 Featured Projects</h2></summary>
                 <h3>🚗 DeadDrift</h3>
-          <p>** A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles. ** 
+          <p>A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles.
 
 ---
 
