@@ -1,3 +1,5 @@
+<div align=center>
+ 
 # Hi , I'm P374R
 
 **I am a self-taught developer specializing in modern, reactive websites and complex automation scripts utilizing Python and Batch scripting.**
@@ -17,6 +19,7 @@
 ![](https://github-trophies.vercel.app/?username=P374R&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+</div>
 <div align=center>
  
 ## Random Dev Quote
