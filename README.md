@@ -55,5 +55,5 @@ echo System status: FULLY OPERATIONAL.
 <br/>
 <div align="center">
   <!-- FIXED FOOTER -->
-  <img src="https://vercel.app" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=100&section=footer" width="100%"/>
 </div>
