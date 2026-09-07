@@ -12,7 +12,7 @@
 <details>
   <summary><h2>📂 Featured Projects</h2></summary>
   
-  <h3><b></b><a herf=https://github.com/P374R/DeadDrift>🚗 DeadDrift</a></b></h3>
+  <h3>🚗 DeadDrift</h3>
   <p>A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles.</p>
 
   <h4>🕹️ About the Game</h4>
@@ -29,11 +29,11 @@
   
 ---
 
-  <h3><a herf=https://github.com/P374R/artificial-neuron-network> 🧠 Artificial-Neuron-Network</a></h3>
+  <h3>🧠 Artificial-Neuron-Network</a></h3>
   <p>A custom-built, lightweight artificial neural network architecture constructed from scratch to model deep learning nodes, mathematical weights, and activation functions.</p>
 
   <h4>🎛️ Architecture & System Design</h4>
-  <p>This implementation features an independent <b>Artificial Neural Network(ANN)</b>. By stripping away heavy, abstract frameworks, this project isolates the fundamental mechanics of machine learning to demonstrate exactly how data propagates, adjusts, and learns across hidden layers.</p>
+  <p>This implementation features an independent <b><a href=https://github.com/P374R/artificial-neuron-network>Artificial Neural Network(ANN)</a></b>. By stripping away heavy, abstract frameworks, this project isolates the fundamental mechanics of machine learning to demonstrate exactly how data propagates, adjusts, and learns across hidden layers.</p>
 
   <h4>🧪 Core Framework Capabilities</h4>
   <ul>
