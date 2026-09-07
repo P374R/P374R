@@ -12,7 +12,7 @@
 <details>
   <summary><h2>📂 Featured Projects</h2></summary>
   
-  <h3>🚗 DeadDrift</h3>
+  <h3><a herf=https://github.com/P374R/DeadDrift>🚗 DeadDrift</a></h3>
   <p>A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles.</p>
 
   <h4>🕹️ About the Game</h4>
