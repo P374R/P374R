@@ -33,7 +33,7 @@
   <p>A custom-built, lightweight artificial neural network architecture constructed from scratch to model deep learning nodes, mathematical weights, and activation functions.</p>
 
   <h4>🎛️ Architecture & System Design</h4>
-  <p>This implementation features an independent <b>[Artificial Neural Network](https://github.com/P374R/artificial-neuron-network) (ANN)</b>. By stripping away heavy, abstract frameworks, this project isolates the fundamental mechanics of machine learning to demonstrate exactly how data propagates, adjusts, and learns across hidden layers.</p>
+  <p>This implementation features an independent <b>Artificial Neural Network(ANN)</b>. By stripping away heavy, abstract frameworks, this project isolates the fundamental mechanics of machine learning to demonstrate exactly how data propagates, adjusts, and learns across hidden layers.</p>
 
   <h4>🧪 Core Framework Capabilities</h4>
   <ul>
