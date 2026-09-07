@@ -16,7 +16,7 @@
   <p>A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles.</p>
 
   <h4>🕹️ About the Game</h4>
-  <p><b><a href="https://github.com">DeadDrift</a></b> is an adrenaline-fueled racing game where survival requires perfect traction control and master-class drifting. Slide through tight corners, outrun chaotic elements, and maintain momentum to avoid burning out. Every turn is a gamble between a record-breaking speed boost or a total crash.</p>
+  <p><b><a href="https://github.com/P374R/DeadDrift">DeadDrift</a></b> is an adrenaline-fueled racing game where survival requires perfect traction control and master-class drifting. Slide through tight corners, outrun chaotic elements, and maintain momentum to avoid burning out. Every turn is a gamble between a record-breaking speed boost or a total crash.</p>
 
   <h4>🚀 Core Features</h4>
   <ul>
@@ -33,7 +33,7 @@
   <p>A custom-built, lightweight artificial neural network architecture constructed from scratch to model deep learning nodes, mathematical weights, and activation functions.</p>
 
   <h4>🎛️ Architecture & System Design</h4>
-  <p>This implementation features an independent <b>Artificial Neural Network(ANN)</b>. By stripping away heavy, abstract frameworks, this project isolates the fundamental mechanics of machine learning to demonstrate exactly how data propagates, adjusts, and learns across hidden layers.</p>
+  <p>This implementation features an independent <b><a herf=https://github.com/P374R/artificial-neuron-network>Artificial Neural Network(ANN)</a></b>. By stripping away heavy, abstract frameworks, this project isolates the fundamental mechanics of machine learning to demonstrate exactly how data propagates, adjusts, and learns across hidden layers.</p>
 
   <h4>🧪 Core Framework Capabilities</h4>
   <ul>
