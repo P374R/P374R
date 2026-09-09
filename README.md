@@ -6,7 +6,6 @@
           <br>
     </p>
           <p align="center">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+not+impatient%2C+I+am+just+more+optimized."/>
     </p>
     <p align="center">
     </p>
