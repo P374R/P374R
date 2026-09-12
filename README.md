@@ -104,7 +104,7 @@
       <h3>🔥 Streak Stats</h3>
       <div align=center>
       <p>
-        <img alt="P374R's Streak stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=P374R&theme=react&hide_border=true&short_numbers=true" />
+        <img alt="P374R's Streak stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=P374R&theme=react&hide_border=true&short_numbers=true&include_all_commits=true&count_private=true" />
       </p>
       <h3>💻 GitHub Profile Stats</h3>
       <img alt="P374R's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=P374R&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" height="192px"/>
