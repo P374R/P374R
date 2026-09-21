@@ -31,6 +31,16 @@
   <br>
   
 ---
+### 👻 PhantomDev
+
+A powerful, single portable binary that bundles an interactive developer interface, local socket inspection, and an embedded offline LLM.
+
+#### 🎛️ Core Capabilities
+* **Zero Cloud Dependencies:** Fully functional local LLM execution with no external API keys or internet required.
+* **Portable Pipeline:** Compiled entirely into a single standalone binary for absolute zero-configuration setups.
+* **Socket Inspector:** Full-featured interactive interface to analyze and debug local network traffic seamlessly.
+
+--- 
 
   <h3>🧠 Artificial-Neuron-Network</a></h3>
   <p>A custom-built, lightweight artificial neural network architecture constructed from scratch to model deep learning nodes, mathematical weights, and activation functions.</p>
