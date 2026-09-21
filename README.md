@@ -30,7 +30,8 @@
 
   <br>
   
----
+--
+
 ### 👻 PhantomDev
 
 A powerful, single portable binary that bundles an interactive developer interface, local socket inspection, and an embedded offline LLM.
@@ -40,7 +41,7 @@ A powerful, single portable binary that bundles an interactive developer interfa
 * **Portable Pipeline:** Compiled entirely into a single standalone binary for absolute zero-configuration setups.
 * **Socket Inspector:** Full-featured interactive interface to analyze and debug local network traffic seamlessly.
 
---- 
+--
 
   <h3>🧠 Artificial-Neuron-Network</a></h3>
   <p>A custom-built, lightweight artificial neural network architecture constructed from scratch to model deep learning nodes, mathematical weights, and activation functions.</p>
