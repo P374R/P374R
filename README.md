@@ -128,6 +128,7 @@ A powerful, single portable binary that bundles an interactive developer interfa
     <h3>🏆 Achievements</h3>
     <div align="center">
       <img src="https://github-trophies.vercel.app/?username=P374R&theme=dark" />
+          ![Terminal Dashboard](https://github-terminal-stats-card.vercel.app/api/card?username=P374R)
           <br>
           <br>
           <br>
