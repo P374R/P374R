@@ -122,28 +122,3 @@ A powerful, single portable binary that bundles an interactive developer interfa
       <br/>
       </div>
     </details>
-        <details>
-    <summary><h2>🏆 Achievements</h2></summary>
-    <h3>🏆 Achievements</h3>
-    <div align="center">
-      <img src="https://github-trophies.vercel.app/?username=P374R&theme=dark" />
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif"/>
-    </div>
-    </details>
