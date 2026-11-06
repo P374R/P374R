@@ -14,23 +14,6 @@
     </div>
 <details>
   <summary><h2>📂 Featured Projects</h2></summary>
-  
-  <h3>🚗 DeadDrift</h3>
-  <p>A high-octane, precision-based arcade racing experience built on drift physics, split-second control, and dodging fatal obstacles.</p>
-
-  <h4>🕹️ About the Game</h4>
-  <p><b><a href=https://github.com/P374R/DeadDrift> DeadDrift</a></b> is an adrenaline-fueled racing game where survival requires perfect traction control and master-class drifting. Slide through tight corners, outrun chaotic elements, and maintain momentum to avoid burning out. Every turn is a gamble between a record-breaking speed boost or a total crash.</p>
-
-  <h4>🚀 Core Features</h4>
-  <ul>
-    <li><b>Advanced Drift Physics:</b> Immersive steering mechanics designed for tight cornering and satisfying momentum management.</li>
-    <li><b>Deadly Environments:</b> Dynamic tracks filled with hazardous turns, obstacles, and high-stakes racing lanes.</li>
-    <li><b>Optimized Performance:</b> Smooth rendering and highly responsive inputs to catch every split-second slide.</li>
-  </ul>
-
-  <br>
-  
----
 
 ### 👻 PhantomDev
 
